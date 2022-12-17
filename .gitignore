@@ -1,0 +1,14 @@
+# Dataset folder
+tinder_dataset/
+
+# MacOs files
+.DS_Store
+
+# Checkpoints
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__
