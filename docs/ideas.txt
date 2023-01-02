@@ -1,9 +1,0 @@
-Meta-idea: r/dataisbeautiful
-
-Idea: Tinder 
-
-	- Create an analysis on the success of tinder (number of matches, conversations, time spent in the app, etc)
-	- Data analytics like this one: https://tinderinsights.com/
-	- Data from Swipestats. https://www.swipestats.io/
-	- Data process: https://towardsdatascience.com/i-analyzed-hundreds-of-users-tinder-data-including-messages-so-you-dont-have-to-14c6dc4a5fdd
-	- Data analysis: https://data-dive.com/tinder-statistics-insights-from-unique-dataset
